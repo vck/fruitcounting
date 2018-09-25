@@ -1,0 +1,10 @@
+steps:
+
+
+- shadow reduction
+- object separation
+- kmeans segmentation
+- object extraction
+- blob detection
+
+
